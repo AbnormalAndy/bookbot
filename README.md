@@ -1,5 +1,5 @@
 # BookBot
 
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
+Count words and letters of a .txt file.
 
-
+BookBot took over the world.
